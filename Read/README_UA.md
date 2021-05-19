@@ -1,3 +1,6 @@
+# Termux
+#### Basic commands with termux.
+#### set launges: <a href="You launges has been used!">You launges has been used!</a>
 ---
   #### Основні команди.
   * `Ls - список файлів і каталогов`
