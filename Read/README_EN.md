@@ -1,3 +1,8 @@
+# Termux
+#### Basic commands with termux.
+
+#### set launges: <a href="Read/README_RU.md">Russian</a> <a href="Read/README_EN.md">English</a> <a href="Read/README_UA.md">Ukraine</a>
+
 ---
    #### Basic commands.
    * `Ls - list of files and directories`
@@ -131,3 +136,4 @@
    * `Ctrl + U - delete string`
    * `!!  - repeat the last command`
    * `Exit - log out`
+###### by misha korzhik: report bug: misakorzik528@gmail.com
