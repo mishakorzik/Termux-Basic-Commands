@@ -3,13 +3,18 @@
 
 #### if you want to translate the page then click on the view on github button and you will be redirected to the github site and will write se laungles and select the desired language. Thanks for understanding.
 
----
+----
 #### Basic commands.
-* ` ls – список файлов и каталогов`
-* ` ls -al – форматированный список со скрытыми каталогами и файлами`
-* ` cd dir – сменить директорию на dir`
-* ` cd – сменить на домашний каталог`
-* ` pwd – показать текущий каталог`
+
+* `ls – список файлов и каталогов`
+
+* `ls -al – форматированный список со скрытыми каталогами и файлами`
+
+* `cd dir – сменить директорию на dir`
+
+* `cd – сменить на домашний каталог`
+
+* `pwd – показать текущий каталог`
 
 ---
 #### commands with files.
