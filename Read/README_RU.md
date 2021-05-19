@@ -107,7 +107,7 @@
 
  ---
  #### установка из исходников.
- * `. / configure`
+ * `./configure`
  * `make`
  * `make install`
 
