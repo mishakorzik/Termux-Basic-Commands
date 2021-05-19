@@ -1,8 +1,6 @@
 # Termux
 #### Basic commands with termux.
-
-#### set launges: <a href="Read/README_RU.md">Russian</a> <a href="Read/README_EN.md">English</a> <a href="Read/README_UA.md">Ukraine</a>
-
+#### set launges: <a href="You launges has been used!">You launges has been used!</a>
 ---
    #### Basic commands.
    * `Ls - list of files and directories`
