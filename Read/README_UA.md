@@ -134,3 +134,5 @@
   * `Ctrl + U - видалити строку`
   * `!!  - повторити останню команду`
   * `Exit - разлогініться`
+
+by misha korzhik: report bug: mishakorzik528@gmail.com
