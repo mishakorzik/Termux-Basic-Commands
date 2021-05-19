@@ -1,6 +1,5 @@
 
 #### Basic commands with termux.
-
 #### if you want to translate the page then click on the view on github button and you will be redirected to the github site and will write se laungles and select the desired language. Thanks for understanding.
 
 ----
