@@ -136,3 +136,5 @@ installation of deb packages
 * `Ctrl+U – удалить строку`
 * `!! — повторить последнюю команду`
 * `exit – разлогиниться`
+
+by mishakorzhik: report bug: misakorzik528@gmail.com
