@@ -1,7 +1,7 @@
 # Termux
 #### Basic commands with termux.
 
-#### set launges: <a href="Read/README_RU.md">Russian</a> <a href="Read/README_EN.md">English</a> <a href="Read/README_UA.md">Ukraine</a>
+#### set launges: <a href="Read/README_RU.md">Russian</a> <a href="Read/README_EN.md">English</a> <a href="Read/README_US.md">Ukraine</a>
 
 ---
    #### Basic commands.
