@@ -137,4 +137,4 @@ installation of deb packages
 * `!! — повторить последнюю команду`
 * `exit – разлогиниться`
 
-by mishakorzhik: report bug: misakorzik528@gmail.com
+by mishakorzhik: report bug: miguardzecurity@gmail.com
