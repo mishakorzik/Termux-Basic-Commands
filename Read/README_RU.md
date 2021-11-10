@@ -135,4 +135,4 @@
  * `!!  - повторить последнюю команду`
  * `exit - разлогиниться`
 
-###### by misha korzhik: report bug: misakorzik528@gmail.com
+###### by misha korzhik: report bug: miguardzecurity@gmail.com
